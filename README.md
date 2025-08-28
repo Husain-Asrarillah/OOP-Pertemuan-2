@@ -58,6 +58,4 @@ PertemuanKedua/
 
 ---
 
-✍️ *Laporan ini dibuat oleh Husain Asrarillah (09020624035) sebagai bukti telah menyelesaikan tugas SPADA pada pertemuan kedua mata kuliah OOP.*
-
-```
+✍️ *Laporan ini dibuat oleh Husain Asrarillah (09020624035) sebagai bukti telah menyelesaikan tugas pada pertemuan kedua mata kuliah OOP.*
