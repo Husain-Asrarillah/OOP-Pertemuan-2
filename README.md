@@ -38,9 +38,6 @@ PertemuanKedua/
    ```java
    this.merk = merk;
    this.tahun = tahun;
-````
-
-`this` di sini menunjuk ke atribut milik objek saat ini.
 
 2. **`super`** → digunakan pada konstruktor `Mobil` untuk memanggil konstruktor dari superclass (`Kendaraan`).
 
