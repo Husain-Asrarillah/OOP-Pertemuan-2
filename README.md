@@ -38,6 +38,7 @@ PertemuanKedua/
    ```java
    this.merk = merk;
    this.tahun = tahun;
+    ```
 
    this di sini menunjuk ke atribut milik objek saat ini.
 
