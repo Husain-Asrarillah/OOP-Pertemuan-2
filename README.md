@@ -1,6 +1,3 @@
-Oke siap 🚀 aku jadikan dalam **satu blok code markdown** supaya bisa langsung kamu **copy–paste** ke README di GitHub 👍
-
-```markdown
 # 📘 Laporan Praktikum OOP – Pertemuan Kedua
 
 **Nama:** Husain Asrarillah  
@@ -90,7 +87,4 @@ PertemuanKedua/
 
 ✍️ *Laporan ini dibuat oleh Husain Asrarillah (09020624035) sebagai bukti telah menyelesaikan tugas SPADA pada pertemuan kedua mata kuliah OOP.*
 
-```
-
-Mau sekalian aku tambahin **contoh output program** di README ini biar lebih meyakinkan kalau kodenya sudah jalan?
 ```
