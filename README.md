@@ -50,33 +50,6 @@ PertemuanKedua/
 
    Dengan `super`, subclass bisa mengisi atribut bawaan dari superclass tanpa harus menuliskan ulang.
 
----
-
-## ▶️ Cara Menjalankan
-
-1. Clone repository ini:
-
-   ```bash
-   git clone <url-repo>
-   ```
-2. Masuk ke folder project:
-
-   ```bash
-   cd PertemuanKedua
-   ```
-3. Compile program:
-
-   ```bash
-   javac Mobil.java
-   ```
-4. Jalankan program:
-
-   ```bash
-   java PertemuanKedua.Mobil
-   ```
-
----
-
 ## 📝 Kesimpulan
 
 * Praktikum ini berhasil menunjukkan bagaimana membuat **class**, **subclass**, dan **interface** di Java.
